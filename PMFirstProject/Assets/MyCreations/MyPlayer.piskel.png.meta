@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 64bc1d6c5f3fce14f830fc5ef5a97d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4312299574438814507
+    second: MyPlayer.piskel_0
+  - first:
+      213: -2240608129077638958
+    second: MyPlayer.piskel_1
+  - first:
+      213: -4070330582469109089
+    second: MyPlayer.piskel_2
+  - first:
+      213: -4304155507431498377
+    second: MyPlayer.piskel_3
+  - first:
+      213: -7600601445293543576
+    second: MyPlayer.piskel_4
+  - first:
+      213: 220701051537310532
+    second: MyPlayer.piskel_5
+  - first:
+      213: -7957594341882550684
+    second: MyPlayer.piskel_6
+  - first:
+      213: -14969081638523533
+    second: MyPlayer.piskel_7
+  - first:
+      213: -3555698420733950908
+    second: MyPlayer.piskel_8
+  - first:
+      213: -7743761075705893035
+    second: MyPlayer.piskel_9
+  - first:
+      213: -8374837289215189526
+    second: MyPlayer.piskel_10
+  - first:
+      213: 7812771191861790113
+    second: MyPlayer.piskel_11
+  - first:
+      213: 6234784935740999099
+    second: MyPlayer.piskel_12
+  - first:
+      213: -6844599323094164862
+    second: MyPlayer.piskel_13
+  - first:
+      213: -2331948099951689687
+    second: MyPlayer.piskel_14
+  - first:
+      213: 1902624882551098654
+    second: MyPlayer.piskel_15
+  - first:
+      213: -64678817497524159
+    second: MyPlayer.piskel_16
+  - first:
+      213: 2489661686018839320
+    second: MyPlayer.piskel_17
+  - first:
+      213: 6780698934633522903
+    second: MyPlayer.piskel_18
+  - first:
+      213: -932357358568099338
+    second: MyPlayer.piskel_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MyPlayer.piskel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc91847262a724c0800000000000000
+      internalID: -4312299574438814507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8897127c2c7e0e0800000000000000
+      internalID: -2240608129077638958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a158996e74387c0800000000000000
+      internalID: -4070330582469109089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1181de519444c0800000000000000
+      internalID: -4304155507431498377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f25f5514d358690800000000000000
+      internalID: -7600601445293543576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443cf62ef66101300800000000000000
+      internalID: 220701051537310532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ae617b12f09190800000000000000
+      internalID: -7957594341882550684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d625613b1dacff0800000000000000
+      internalID: -14969081638523533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444cbf002f97aec0800000000000000
+      internalID: -3555698420733950908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fad017452a88490800000000000000
+      internalID: -7743761075705893035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed12a47bd996cb80800000000000000
+      internalID: -8374837289215189526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c352510a8c6c60800000000000000
+      internalID: 7812771191861790113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58cc1add7668650800000000000000
+      internalID: 6234784935740999099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad71d0e291301a0800000000000000
+      internalID: -6844599323094164862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9208bbbee8143afd0800000000000000
+      internalID: -2331948099951689687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0749004b776a10800000000000000
+      internalID: 1902624882551098654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148519a45f63a1ff0800000000000000
+      internalID: -64678817497524159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139d06dc1e0d8220800000000000000
+      internalID: 2489661686018839320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d663bf51c1e91e50800000000000000
+      internalID: 6780698934633522903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyPlayer.piskel_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 1}
+        - {x: 15, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1b3d61ce99f03f0800000000000000
+      internalID: -932357358568099338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
